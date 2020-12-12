@@ -1,2 +1,0 @@
-Here we can upload our CSS files for the rest of the group to see and use. Let's be sure to add our name in the titles so that we know who wrote each file. 
-If there is any trouble with GitHub, just let me know and I will do my best to fix it. (^.^)
